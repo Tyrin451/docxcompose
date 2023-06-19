@@ -33,7 +33,7 @@ setup(
     zip_safe=True,
     install_requires=[
         'lxml',
-        'python-docx >= 0.8.8',
+        'python-docx-ng',
         'setuptools',
         'six',
         'babel',
